@@ -682,6 +682,7 @@ p {
 }
 
 .tight-width-whitespace {
+    justify-content: center;
     max-width: 600px;
     margin: auto auto auto auto;
 }
